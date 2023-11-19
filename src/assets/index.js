@@ -23,12 +23,12 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import grad from "./grad.png";
+import ucal from "./company/ucal.jpg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import shirt from "./shirt.png";
+import spotifyTop100 from "./spotifyTop100.jpg";
+import billAuto from "./billAuto.png";
 
 export {
   logo,
@@ -54,9 +54,9 @@ export {
   threejs,
   meta,
   shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  grad,
+  ucal,
+  spotifyTop100,
+  billAuto,
+  shirt,
 };
