@@ -17,7 +17,7 @@ import {
   docker,
   grad,
   ucal,
-  shopify,
+  skycafe,
   shirt,
   spotifyTop100,
   billAuto,
@@ -136,7 +136,7 @@ const experiences = [
   {
     title: "Data Entry Automation",
     company_name: "Skycafe",
-    icon: shopify,
+    icon: skycafe,
     iconBg: "#FFFFFF",
     date: "April 2021 - Sept 2022",
     points: [

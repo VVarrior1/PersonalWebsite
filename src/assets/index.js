@@ -21,10 +21,9 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
 import grad from "./grad.png";
 import ucal from "./company/ucal.jpg";
+import skycafe from "./company/skycafe.jfif";
 
 import shirt from "./shirt.png";
 import spotifyTop100 from "./spotifyTop100.jpg";
@@ -52,9 +51,8 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
   grad,
+  skycafe,
   ucal,
   spotifyTop100,
   billAuto,
